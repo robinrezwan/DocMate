@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DocMate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DocMate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
